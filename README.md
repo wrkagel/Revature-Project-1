@@ -34,4 +34,4 @@
   - User experience tested by hand using Expo development environment and Android Studio.
   - Some functional testing done using Jest and testing-library/react-native.
 - Repo: [https://github.com/wrkagel/Revature-Project-1-Mobile](https://github.com/wrkagel/Revature-Project-1-Mobile)
-- apk: download from this repo
+- apk: [download](https://github.com/wrkagel/Revature-Project-1/raw/main/expense-mobile-0c38ca76294b430bb4ebe6de2e0b3486-signed.apk) from this repo
