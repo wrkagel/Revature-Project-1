@@ -14,7 +14,7 @@
   - Tested using Jest.
 - Repo: [https://github.com/wrkagel/Revature-Project-1-Backend](https://github.com/wrkagel/Revature-Project-1-Backend)
 
-### [Frontend](https://github.com/wrkagel/Revature-Project-1-Frontend)
+### [Browser Frontend](https://github.com/wrkagel/Revature-Project-1-Frontend)
 - The frontend handles the user interaction, displays reimbursements, and sends the appropriate requests to the backend.
   - Single page application built using React.
   - Programmed in Typescript.
@@ -25,6 +25,7 @@
   - User experience testing done by hand.
   - Some functional testing done using Jest and testing-library/react.
 - Repo: [https://github.com/wrkagel/Revature-Project-1-Frontend](https://github.com/wrkagel/Revature-Project-1-Frontend)
+- url: [https://white-meadow-0ceb2eb0f.azurestaticapps.net](https://white-meadow-0ceb2eb0f.azurestaticapps.net)
 
 ### [Mobile Application](https://github.com/wrkagel/Revature-Project-1-Mobile)
 - A mobile application only for managers that allows them to view reimbursements for employees they manage and approve, deny, or set pending any reimbursements that are not already paid.
@@ -33,3 +34,4 @@
   - User experience tested by hand using Expo development environment and Android Studio.
   - Some functional testing done using Jest and testing-library/react-native.
 - Repo: [https://github.com/wrkagel/Revature-Project-1-Mobile](https://github.com/wrkagel/Revature-Project-1-Mobile)
+- apk: download from this repo
