@@ -39,7 +39,6 @@
   - User experience testing done by hand.
   - Some functional testing done using Jest and testing-library/react.
 - Repo: [https://github.com/wrkagel/Revature-Project-1-Frontend](https://github.com/wrkagel/Revature-Project-1-Frontend)
-- url: [https://white-meadow-0ceb2eb0f.azurestaticapps.net](https://white-meadow-0ceb2eb0f.azurestaticapps.net)
 
 ### [Mobile Application](https://github.com/wrkagel/Revature-Project-1-Mobile)
 - A mobile application only for managers that allows them to view reimbursements for employees they manage and approve, deny, or set pending any reimbursements that are not already paid.
@@ -49,6 +48,11 @@
   - Some functional testing done using Jest and testing-library/react-native.
 - Repo: [https://github.com/wrkagel/Revature-Project-1-Mobile](https://github.com/wrkagel/Revature-Project-1-Mobile)
 - apk: [download](https://github.com/wrkagel/Revature-Project-1/raw/main/expense-mobile-0c38ca76294b430bb4ebe6de2e0b3486-signed.apk) from this repo
+
+### To-Do
+- Implement security for login credentials.
+- Add graphics for statistics.
+- Implement preview for file uploads.
 
 ## Contributors
 - Walter Kagel (wrkagel)
