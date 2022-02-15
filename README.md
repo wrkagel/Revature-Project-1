@@ -5,6 +5,20 @@
   This is an expense reimbursement system that includes a backend server, a frontend website, and a mobile application.
 - project1.md contains the minimum requirements for the system.
 
+## Technologies used
+- Express.js
+  - Multer
+- React
+- Redux Toolkit
+- Expo
+- React Native
+- Azure CosmosDB
+- Azure App Service
+- Azure Static Web App
+- Azure Storage Containers
+
+## Features
+
 ### [Backend](https://github.com/wrkagel/Revature-Project-1-Backend)
 - The backend is an express server that can take http requests and communicate with an Azure Cosmos DB and Azure storage container.
   - Handles all http requests from the frontend.
@@ -35,3 +49,9 @@
   - Some functional testing done using Jest and testing-library/react-native.
 - Repo: [https://github.com/wrkagel/Revature-Project-1-Mobile](https://github.com/wrkagel/Revature-Project-1-Mobile)
 - apk: [download](https://github.com/wrkagel/Revature-Project-1/raw/main/expense-mobile-0c38ca76294b430bb4ebe6de2e0b3486-signed.apk) from this repo
+
+## Contributors
+- Walter Kagel (wrkagel)
+
+## License
+- [MIT](License.md)
