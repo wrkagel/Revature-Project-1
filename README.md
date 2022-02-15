@@ -54,4 +54,4 @@
 - Walter Kagel (wrkagel)
 
 ## License
-- [MIT](License.md)
+- [MIT 2.0](LICENSE)
